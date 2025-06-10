@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Eslam Arafa
 
-<!--
-**EslamArafa2003/EslamArafa2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Graduate from AAST College of Artificial Intelligence  
+📊 Passionate about Data Science, Machine Learning, and AI  
+💬 Skilled in Python, NLP, Computer Vision, and Deep Learning  
+🚀 Actively seeking entry-level opportunities in AI and Data Science
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: Python, C, SQL
+- **Libraries & Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, NLTK, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, Google Colab, Git, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🩺 **Heart Disease Prediction** — Data Science and ML Project  
+- 🤖 **NLP Sentiment Classifier** — Using NLTK and Scikit-learn  
+- 🧠 **Deep Learning Basics** — Image classification and CNNs  
+- 🧿 **Computer Vision Apps** — OpenCV projects for real-time detection
+
+## 📫 Contact Me
+- 📧 eslamarafa2003@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eslam-arafa-5b0996253/)  
+- 💻 [GitHub](https://github.com/EslamArafa2003)
+
+---
